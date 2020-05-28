@@ -14,5 +14,8 @@ In order to implement a custom model successfully, you will need:
 - Details of your model calculations.
 
 Find more information here:
-https://grantadesign.com/
-https://grantadesign.com/download/pdf/paper_modelwritersguide_v5_en.pdf
+- https://grantadesign.com/
+- https://grantadesign.com/download/pdf/paper_modelwritersguide_v5_en.pdf
+
+Example of a user-defined Synthesizer plug in for composite material (MMCs) (webinar in French):
+- https://www.youtube.com/watch?v=4OSXvXA5a6Y&feature=youtu.be
