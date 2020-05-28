@@ -1,0 +1,11 @@
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\obj\Release\MatrixParticles_HalpinTsai.CSharp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\MatrixParticles_HalpinTsai.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\MatrixParticles_HalpinTsai.CSharp.pdb
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\Granta.ComponentModel.DataAnnotations.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\Granta.Data.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\Granta.Framework.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\Granta.HybridBase.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\bin\Release\Granta.HybridBase.xml
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\obj\Release\MatrixParticles_HalpinTsai.CSharp.csproj.CopyComplete
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\obj\Release\MatrixParticles_HalpinTsai.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles_HalpinTsai\obj\Release\MatrixParticles_HalpinTsai.CSharp.pdb

@@ -1,0 +1,360 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Granta.HybridBase</name>
+    </assembly>
+    <members>
+        <member name="T:Granta.HybridBase.BoundsAttribute">
+            <summary>
+            The BoundsAttribute is used to specify lower and/or upper bounds for 
+            variables or parameters.
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.BoundsAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.BoundsAttribute"/> class.
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.BoundsAttribute.#ctor(System.Double,System.Double)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.BoundsAttribute"/> class.
+            </summary>
+            <param name="lowerbound">The lowerbound.</param>
+            <param name="upperbound">The upperbound.</param>
+        </member>
+        <member name="M:Granta.HybridBase.BoundsAttribute.#ctor(System.Double,System.Double,System.Boolean,System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.BoundsAttribute"/> class.
+            </summary>
+            <param name="lowerbound">The lowerbound.</param>
+            <param name="upperbound">The upperbound.</param>
+            <param name="lowerBoundIncluded">Lower boundincluded.</param>
+            <param name="upperBoundIncluded">Upper bound included.</param>
+        </member>
+        <member name="P:Granta.HybridBase.BoundsAttribute.LowerBound">
+            <summary>
+            Gets or sets the lower bound.
+            </summary>
+            <value>The lower bound.</value>
+        </member>
+        <member name="P:Granta.HybridBase.BoundsAttribute.UpperBound">
+            <summary>
+            Gets or sets the upper bound.
+            </summary>
+            <value>The upper bound.</value>
+        </member>
+        <member name="P:Granta.HybridBase.BoundsAttribute.LowerBoundIncluded">
+            <summary>
+            Gets or sets whether the lower bound is included in the range
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.BoundsAttribute.UpperBoundIncluded">
+            <summary>
+            Gets or sets whether the upper bound is included in the range
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.CalculatedDataAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.CalculatedDataAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.CalculatedDataAttribute"/> class.
+            </summary>
+            <param name="name">The name of the calculated attribute</param>
+            <param name="unit">The unit of the calculated attribute</param>
+        </member>
+        <member name="P:Granta.HybridBase.CalculatedDataAttribute.MetaName">
+            <summary>
+            Gets or sets the meta attribute name 
+            </summary>
+            <value>The name.</value>
+        </member>
+        <member name="P:Granta.HybridBase.CalculatedDataAttribute.Name">
+            <summary>
+            Gets or sets the name.
+            </summary>
+            <value>The name.</value>
+        </member>
+        <member name="P:Granta.HybridBase.CalculatedDataAttribute.Unit">
+            <summary>
+            Gets or sets the unit.
+            </summary>
+            <value>The unit.</value>
+        </member>
+        <member name="T:Granta.HybridBase.DataAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.DataAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.DataAttribute"/> class.
+            </summary>
+            <param name="name">The name.</param>
+            <param name="unit">The unit.</param>
+        </member>
+        <member name="T:Granta.HybridBase.GroupAttribute">
+            <summary>
+            The GroupAttribute is used to assign a group to an input value 
+            such as a sourcerecord, variable or parameter.
+            
+            It is used by the Synthesizer User Interface to categorize inputs into groups.
+            
+            Order specifies the ordering of inputs inside a group, as well as the ordering of groups
+            </summary>  
+        </member>
+        <member name="M:Granta.HybridBase.GroupAttribute.#ctor(System.String,System.Int32)">
+            <summary>
+             Initializes a new instance of the <see cref="T:Granta.HybridBase.GroupAttribute"/> class
+            </summary>
+            <param name="header">The header of the group category</param>
+            <param name="order">The order of the item within the group heading</param>
+            <exception cref="T:System.ArgumentException">Will throw if header is empty</exception>
+        </member>
+        <member name="M:Granta.HybridBase.GroupAttribute.#ctor(System.Type,System.String,System.Int32)">
+            <summary>
+            This constructor is used if you are providing a resourceType for localization
+            </summary>
+            <param name="resourceType"></param>
+            <param name="header"></param>
+            <param name="order"></param>
+        </member>
+        <member name="P:Granta.HybridBase.GroupAttribute.Header">
+            <summary>
+            Gets or sets the Header of the model grouping
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.IHybridModel">
+            <summary>
+            Base interface for HybridModels
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.IHybridModel.TreeName">
+            <summary>
+            Allows TreeName to be specified
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.IHybridModel.FullName">
+            <summary>
+            Allows record name (shown on datasheet) to be specified
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.IHybridModel.BeginCalculation">
+            <summary>
+            Called at the start of each calculation cycle
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.IsGrantaModelAttribute">
+            <summary>
+            Granta created model
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.IsGrantaModelAttribute.#ctor(System.Boolean)">
+            <summary>
+            
+            </summary>
+            <param name="granta">Created by Granta</param>
+        </member>
+        <member name="P:Granta.HybridBase.IsGrantaModelAttribute.IsGranta">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.OptionalAttribute">
+            <summary>
+            This attribute indicates that a given model field is optional and can be enabled and disabled based on a 
+            specified boolean value.
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.OptionalAttribute.#ctor(System.String)">
+            <summary>
+            The switchProperty is the (boolean) property on the model that will used to determine whether
+            the decorated field is enabled or not
+            </summary>
+            <param name="switchProperty"></param>
+        </member>
+        <member name="M:Granta.HybridBase.OptionalAttribute.IsEnabled(System.Object)">
+            <summary>
+            IsEnabled will be true if the switchProperty is true.
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Granta.HybridBase.OrderAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.OrderAttribute.Order">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.OrderAttribute.#ctor(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="order"></param>
+        </member>
+        <member name="T:Granta.HybridBase.ParameterAttribute">
+            <summary>
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.ParameterAttribute.#ctor(System.String)">
+            <summary>
+                Initializes a new instance of the <see cref="T:Granta.HybridBase.ParameterAttribute" /> class.
+            </summary>
+            <param name="unit">The unit.</param>
+        </member>
+        <member name="M:Granta.HybridBase.ParameterAttribute.#ctor(System.Type,System.String)">
+            <summary>
+            Use when you need the unit to be localized
+            </summary>
+            <param name="resourceType"></param>
+            <param name="unit"></param>
+        </member>
+        <member name="P:Granta.HybridBase.ParameterAttribute.Unit">
+            <summary>
+                Gets or sets the unit.
+            </summary>
+            <value>The unit.</value>
+        </member>
+        <member name="T:Granta.HybridBase.ImageAttribute">
+            <summary>
+            The ImageAttribute is used to specify a path to an image resource.
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.ImageAttribute.#ctor(System.String,System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.ImageAttribute"/> class.
+            </summary>
+            <param name="imagePath">The image path.</param>
+            <param name="groupImagePath"></param>
+        </member>
+        <member name="P:Granta.HybridBase.ImageAttribute.ImagePath">
+            <summary>
+            Gets or sets the image path.
+            </summary>
+            <value>The image path.</value>
+        </member>
+        <member name="P:Granta.HybridBase.ImageAttribute.GroupImagePath">
+            <summary>
+            The path to the image for the model group.
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.MaterialAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.MaterialAttribute.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.ModelOptionAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.OptionAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.ProcessAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.ProcessAttribute.#ctor">
+            <summary>
+            Defaults to all processes
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.ProcessAttribute.#ctor(System.String)">
+            <summary>
+            Use if restricting subset
+            </summary>
+            <param name="subset">The subset to which this process will be restricted</param>
+        </member>
+        <member name="P:Granta.HybridBase.ProcessAttribute.Subset">
+            <summary>
+            Specifies the subset to which this process will be restricted
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.RecordNameAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Granta.HybridBase.VariableAttribute">
+            <summary>
+            Variables are used by calculation code. They can take two forms:
+            1. A simple list of values;
+            2. A start, end and number of values. In this case, intervals are calculated logarithmically, unless you specify otherwise.
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.VariableAttribute.#ctor(System.String)">
+            <summary>
+            Calculation Variable, using start and end points.
+            </summary>
+            <param name="unit">The unit shown to the user</param>
+        </member>
+        <member name="P:Granta.HybridBase.VariableAttribute.Unit">
+            <summary>
+            Gets or sets the unit.
+            </summary>
+            <value>The unit.</value>
+        </member>
+        <member name="T:Granta.HybridBase.ValuesAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.ValuesAttribute.#ctor(System.Double[])">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.ValuesAttribute"/> class.
+            </summary>
+            <param name="valuelist">The valuelist.</param>
+        </member>
+        <member name="P:Granta.HybridBase.ValuesAttribute.ListValues">
+            <summary>
+            Gets or sets the list values.
+            </summary>
+            <value>The list values.</value>
+        </member>
+        <member name="T:Granta.HybridBase.RangeValuesAttribute">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Granta.HybridBase.RangeValuesAttribute.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Granta.HybridBase.RangeValuesAttribute"/> class.
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.RangeValuesAttribute.Start">
+            <summary>
+            The default start value
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.RangeValuesAttribute.End">
+            <summary>
+            The default end value
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.RangeValuesAttribute.Number">
+            <summary>
+            The default number of values to calculate
+            </summary>
+        </member>
+        <member name="P:Granta.HybridBase.RangeValuesAttribute.Logarithmic">
+            <summary>
+            Indicates whether the intervals will be calculated logarithmically
+            </summary>
+        </member>
+    </members>
+</doc>

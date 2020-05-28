@@ -1,2 +1,18 @@
 # SynthesizerPlugins
  Codes for user-defined "Synthesizer" plugins
+
+The Synthesizer is an add-on software tool for GRANTA EduPack™ and GRANTA Selector™
+that enables the performance of architectured and composite materials to be estimated, 
+based on the properties of ‘standard’ materials in the installed databases. 
+
+Although the Synthesizer Tool is supplied with a range of standard models, it is also possible to add your own.
+The aim of this document (and associated sample files) is to show you how to write, create, 
+and run your own custom model in the Synthesizer Tool.
+In order to implement a custom model successfully, you will need:
+- Access to Microsoft Visual Studio. 
+- Administrator rights on your PC. 
+- Details of your model calculations.
+
+Find more information here:
+https://grantadesign.com/
+https://grantadesign.com/download/pdf/paper_modelwritersguide_v5_en.pdf
