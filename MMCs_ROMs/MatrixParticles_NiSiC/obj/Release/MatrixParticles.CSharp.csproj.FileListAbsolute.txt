@@ -1,0 +1,28 @@
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\Granta.ComponentModel.DataAnnotations.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\Granta.Data.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\Granta.Framework.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\Granta.HybridBase.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\Granta.HybridBase.xml
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\obj\Release\MatrixParticles.CSharp.csprojAssemblyReference.cache
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\obj\Release\MatrixParticles.CSharp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\obj\Release\MatrixParticles.CSharp.csproj.CopyComplete
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\MatrixParticles.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\bin\Release\MatrixParticles.CSharp.pdb
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\obj\Release\MatrixParticles.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\MatrixParticles\obj\Release\MatrixParticles.CSharp.pdb
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\obj\Release\MatrixParticles.CSharp.csprojAssemblyReference.cache
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\obj\Release\MatrixParticles.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\obj\Release\MatrixParticles.CSharp.dll
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\obj\Release\MatrixParticles.CSharp.pdb
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\bin\Release\MatrixParticles.CSharp.dll
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\bin\Release\MatrixParticles.CSharp.pdb
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\bin\Release\Granta.HybridBase.xml
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles\obj\Release\MatrixParticles.CSharp.csproj.CopyComplete
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\bin\Release\MatrixParticles_NiSiC.CSharp.dll
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\bin\Release\MatrixParticles_NiSiC.CSharp.pdb
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\bin\Release\Granta.HybridBase.xml
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\obj\Release\MatrixParticles.CSharp.csprojAssemblyReference.cache
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\obj\Release\MatrixParticles.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\obj\Release\MatrixParticles.CSharp.csproj.CopyComplete
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\obj\Release\MatrixParticles_NiSiC.CSharp.dll
+C:\Users\dmercier\OneDrive - ANSYS, Inc\Documents\GitHub\SynthesizerPlugins\MMCs_ROMs\MatrixParticles_NiSiC\obj\Release\MatrixParticles_NiSiC.CSharp.pdb

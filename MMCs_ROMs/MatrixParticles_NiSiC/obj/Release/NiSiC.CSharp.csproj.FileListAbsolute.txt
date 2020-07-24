@@ -1,0 +1,16 @@
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\Granta.ComponentModel.DataAnnotations.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\Granta.Data.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\Granta.Framework.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\Granta.HybridBase.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\Granta.HybridBase.xml
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\obj\Release\NiSiC.CSharp.csprojAssemblyReference.cache
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\obj\Release\NiSiC.CSharp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\obj\Release\NiSiC.CSharp.csproj.CopyComplete
+C:\Users\david.mercier\Desktop\NiSiC\obj\Release\NiSiC.CSharp.csprojAssemblyReference.cache
+C:\Users\david.mercier\Desktop\NiSiC\obj\Release\NiSiC.CSharp.csproj.CoreCompileInputs.cache
+C:\Users\david.mercier\Desktop\NiSiC\obj\Release\Example.CSharp.dll
+C:\Users\david.mercier\Desktop\NiSiC\obj\Release\Example.CSharp.pdb
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\NiSiC.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\bin\Release\NiSiC.CSharp.pdb
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\obj\Release\NiSiC.CSharp.dll
+C:\Program Files (x86)\CES EduPack 2019\Samples\synthesizer\ExampleModels\C#\NiSiC\obj\Release\NiSiC.CSharp.pdb
